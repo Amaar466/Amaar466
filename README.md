@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amaar466
-- 👀 I’m interested in laravel development
+- 👀 I’m interested in Coding (Laravel Developer)
 - 🌱 I’m currently Work at Conzummate tech
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 0348-8685436/amaarulhaq39@gmail.com
